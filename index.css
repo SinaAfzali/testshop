@@ -24,10 +24,10 @@ body{
     margin-right: 3px;
 }
 .se-content{
-   height: 80%;
+   height: 82%;
 }
 .se-toolsbar{
-    height: 10%;
+    height: 8%;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     border-top: 1px lightgray solid;
