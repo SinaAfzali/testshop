@@ -23,11 +23,11 @@ body{
     margin-right: 3px;
 }
 .se-content{
-    height: 80vh;
+    height: 75vh;
 }
 .se-toolsbar{
     display: grid;
-    height: 8vh;
+    height: 10vh;
     grid-template-columns: repeat(5, 1fr);
     border-top: 1px lightgray solid;
 }
