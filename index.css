@@ -1,0 +1,40 @@
+body{
+    direction: rtl;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    font-family: 'Yekan', serif;
+    background-color: white;
+}
+.se-header{
+    height: 10vh; 
+    margin: -8px -10px 0 -10px;
+    padding-right: 5px;
+    display: flex;
+    background-color: #008b8b;
+}
+.se-header-icon{
+    background-color: white;
+    border-radius: 25px;
+    height: 70%;
+}
+.se-header-name{
+    color: white;
+    font-size: 14px;
+    margin-right: 3px;
+}
+.se-content{
+    height: 80vh;
+}
+.se-toolsbar{
+    display: grid;
+    height: 8vh;
+    grid-template-columns: repeat(5, 1fr);
+    border-top: 1px lightgray solid;
+}
+
+.se-btn{
+    border: none;
+    font-weight: bold;
+    background-color: white;
+    cursor: pointer;
+}
