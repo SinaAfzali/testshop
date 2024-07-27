@@ -4,9 +4,10 @@ body{
     overflow-x: hidden;
     font-family: 'Yekan', serif;
     background-color: white;
+    height: 100vh;
 }
 .se-header{
-    height: 10vh; 
+    height: 10%; 
     margin: -8px -10px 0 -10px;
     padding-right: 5px;
     display: flex;
@@ -23,11 +24,11 @@ body{
     margin-right: 3px;
 }
 .se-content{
-    height: 75vh;
+   height: 80%;
 }
 .se-toolsbar{
+    height: 10%;
     display: grid;
-    height: 8vh;
     grid-template-columns: repeat(5, 1fr);
     border-top: 1px lightgray solid;
 }
