@@ -4,7 +4,7 @@ body{
     overflow-x: hidden;
     font-family: 'Yekan', serif;
     background-color: white;
-    height: 100vh;
+    /* height: 100vh; */
 }
 .se-header{
     height: 10%; 
